@@ -10,6 +10,11 @@ A complete compiler pipeline for the JACK language, featuring tokenization, pars
 - [xv6 shell](https://github.com/qq11875/xv6-shell) <br>
 This project adds a custom shell to the xv6 RISC-V OS, implementing core shell functionality and showcasing low-level OS interactions.
 
+## C++
+- [Rocket Launchpad](https://github.com/qq11875/Rocket-Launchpad) <br>
+A real-time 3D rocket launchpad scene built with modern OpenGL, featuring lighting, texturing, and basic camera controls.
+
 ## Python
 - [RouteShare](https://github.com/chrischiux/RouteShare) <br>
 This project was developed using an Agile workflow supported by Scrum practices to manage planning and iteration. It includes both unit testing and end-to-end testing, implemented with Python’s unittest framework and Playwright. Automated CI pipelines were set up through GitHub Actions to ensure consistent testing and validation across the development process.
+
