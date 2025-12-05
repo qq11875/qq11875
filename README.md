@@ -7,7 +7,7 @@ Engineered a system in C to compress and store image data, optimizing for storag
 - [Jack Compiler](https://github.com/qq11875/Jack-Compiler) <br>
 A complete compiler pipeline for the JACK language, featuring tokenization, parsing, syntax analysis, and VM code generation for the Hack virtual machine environment.
 
-- [xv6 shell](https://github.com/qq11875/xv6-shell) <br>
+- [XV6 Shell](https://github.com/qq11875/xv6-shell) <br>
 This project adds a custom shell to the xv6 RISC-V OS, implementing core shell functionality and showcasing low-level OS interactions.
 
 ## C++
@@ -21,5 +21,8 @@ This project was developed using an Agile workflow supported by Scrum practices 
 - [Professor Rating API Backend](https://github.com/qq11875/Professor-Rating-API-Backend) <br>
 RESTful Django backend for a university professor rating platform, featuring secure authentication, relational data models, rating submission, and aggregated module/professor insights with optimised SQL-backed queries.
 
-- [crawler-and-indexing-engine](https://github.com/qq11875/crawler-and-indexing-engine) <br>
+- [Crawler and Indexing Engine](https://github.com/qq11875/crawler-and-indexing-engine) <br>
 A crawler and indexing engine for collecting and searching text from quotes.toscrape.com.
+
+- [TCP-File-Transfer-System](https://github.com/qq11875/TCP-File-Transfer-System) <br>
+A multi-threaded TCP file transfer tool featuring dedicated server and client components.
