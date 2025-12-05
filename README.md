@@ -20,3 +20,6 @@ This project was developed using an Agile workflow supported by Scrum practices 
 
 - [Professor Rating API Backend](https://github.com/qq11875/Professor-Rating-API-Backend) <br>
 RESTful Django backend for a university professor rating platform, featuring secure authentication, relational data models, rating submission, and aggregated module/professor insights with optimised SQL-backed queries.
+
+- [crawler-and-indexing-engine](https://github.com/qq11875/crawler-and-indexing-engine) <br>
+A crawler and indexing engine for collecting and searching text from quotes.toscrape.com.
