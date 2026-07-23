@@ -28,3 +28,7 @@ A crawler and indexing engine for collecting and searching text from quotes.tosc
 ## Java
 - [TCP-File-Transfer-System](https://github.com/qq11875/TCP-File-Transfer-System) <br>
 A multi-threaded TCP file transfer tool featuring dedicated server and client components.
+
+## Javascript
+- [NAGA Paipu Analyser](https://github.com/qq11875/NAGA-PAIPU-ANALYSER) <br>
+A Mahjong analytics tool that implements shanten calculation algorithms, processes NAGA AI replay data, and produces detailed gameplay and decision-making statistics.
